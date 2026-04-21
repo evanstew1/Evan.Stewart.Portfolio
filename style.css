@@ -447,6 +447,7 @@ main.project-body {
 
 .modal-img {
   cursor: pointer;
+  max-height: 30vh;
 }
 
 footer {
