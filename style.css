@@ -242,6 +242,10 @@ main.project-body {
   shape-rendering: crispEdges;
 }
 
+.project-body img.tams-pres-img {
+  max-height: 40vh;
+}
+
 .bullet-container p {
   margin-bottom: 12px;
   padding-left: 1rem;
@@ -447,7 +451,6 @@ main.project-body {
 
 .modal-img {
   cursor: pointer;
-  max-height: 30vh;
 }
 
 footer {
